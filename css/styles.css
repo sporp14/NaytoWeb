@@ -1,0 +1,78 @@
+/* Navbar */
+
+.navbar {
+  background-color: #111a29;
+}
+
+.navbar-brand {
+  color: #a71d5d;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-style: bold;
+  font-size: 2.5rem;
+}
+
+#title-logo {
+  border-radius: 100%;
+}
+
+#navbar-container {
+  justify-content: space-around;
+}
+
+body {
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+/* Features */
+.features {
+  background-color: #111a29;
+  color: white;
+}
+.features-info {
+  padding-top: 6rem;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+#nayto-image-1 {
+  max-width: 100%;
+  max-height: 100%;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+/* Fluff */
+
+.fluff {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+/* Testimonials */
+#testimonials {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+  background-color: #111a29;
+}
+
+.testimonial-image {
+  width: 2.5rem;
+  border-radius: 100%;
+}
+
+.testimonial-text {
+  color: white;
+}
+
+/* footer */
+#footer {
+  padding-top: .5rem;
+  font-size: 12px;
+}
